@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="217" height="46" viewBox="0 0 217 46">
+    <defs>
+        <style>
+            .cls-1 {
+                font-size: 28px; /* Adjusted font size */
+                fill: #3f5787; /* Corrected fill syntax */
+                font-family: Lato-Bold, Lato;
+                font-weight: 700;
+            }
+            .cls-2 {
+                font-size: 12px; /* Adjusted font size for the slogan */
+                fill: #fbaf41; /* Corrected fill syntax */
+                font-family: Lato-BoldItalic, Lato;
+                font-weight: 700;
+                font-style: italic;
+            }
+        </style>
+    </defs>
+    <text class="cls-1" transform="translate(0 30)">Time2Heal</text> <!-- Adjusted position -->
+    <text class="cls-2" transform="translate(0 45)">Care you need!</text> <!-- Adjusted position -->
+</svg>
+
